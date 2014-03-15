@@ -14,6 +14,8 @@
 
 @implementation ThirdViewController
 
+
+//nib from the interface builder
 - (id)initWithNibName:(NSString *)nibNameOrNil bundle:(NSBundle *)nibBundleOrNil
 {
     self = [super initWithNibName:nibNameOrNil bundle:nibBundleOrNil];
